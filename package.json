@@ -1,0 +1,14 @@
+{
+  "name": "aks-node-express-demo",
+  "version": "1.0.0",
+  "description": "A sample project to test docker to AKS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Baisley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0-beta.1"
+  }
+}

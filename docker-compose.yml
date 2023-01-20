@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  express:
+    image: "node-express-docker:latest"
+    ports:
+      - "3000:3000"
